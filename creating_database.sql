@@ -1,0 +1,2 @@
+CREATE DATABASE
+  sistema_biblioteca_universitaria
